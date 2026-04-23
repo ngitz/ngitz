@@ -1,8 +1,6 @@
 # Hi there 👋
 
-I'm **Phuc Nguyen**, a Full-Stack Developer.  
-💻 I build scalable systems and clean user experiences  
-🚀 Passionate about turning ideas into reliable products  
+[![Cover](https://ngitz-profile.vercel.app/img/logo/cover.png)](https://ngitz-profile.vercel.app)
 
 ---
 
