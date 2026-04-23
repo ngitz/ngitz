@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ngitz/ngitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Phuc Nguyen**, a Full-Stack Developer.  
+💻 I build scalable systems and clean user experiences  
+🚀 Passionate about turning ideas into reliable products  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 About
+
+- 👨‍💻 2+ years of experience in real-world projects  
+- 🇯🇵 Worked with Japanese clients (BrSE collaboration)  
+- ⚡ Focus on maintainable code, performance, and system design  
+
+I enjoy turning complex business requirements into simple, effective solutions.
+
+---
+
+## 🛠 Skills
+
+**Languages**  
+C#, JavaScript, Dart, Python  
+
+**Frontend & Mobile**  
+AngularJS, ReactJS, Flutter  
+
+**Backend**  
+.NET Core, Node.js  
+
+**Database**  
+SQL Server, MySQL  
+
+---
+
+## 📫 Contact
+
+📧 truongphucnguyen.dev@gmail.com
